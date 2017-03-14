@@ -1,1 +1,3 @@
 # Ataturk-Tribute-Page
+This was the very first website that I've made. 
+Just going to keep this for posterity...
